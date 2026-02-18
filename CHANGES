@@ -1,3 +1,6 @@
+1.0.7 2026-02-18
+  - Added missing P1 ses1 echo 1 timeseries
+  - added missing P1 ses19 echo 2 timeseries
 1.0.6 2025-06-09
   - New Addition of T1 Images for subject P7
 1.0.5 2025-04-16
