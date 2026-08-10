@@ -1,3 +1,7 @@
+1.2.0 2026-08-10
+  - Updating P7 Structurals to be properly de-faced
+  - Fixed DOI for reference paper in dataset_description.json
+  - Removed Error caused by unknown HEDVersion in dataset_description.json
 1.1.0 2026-06-09
   - Added PS19 to NON-BIDS
 1.0.8 2026-02-18
